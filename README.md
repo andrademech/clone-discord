@@ -2,7 +2,7 @@
 
 Este projeto foi criado seguindo o vídeo da RocketSeat disponível no YouTube (https://www.youtube.com/watch?v=x4FdZd2-_uU&t=2466s)
 
-This project was build using React. Only form first steps studying React.
+This project was build using React and TypeScript.
 
 ## Deploy
 
@@ -18,6 +18,7 @@ On your terminal, run the following command:
 
 In the project directory, you can run:
 
+### `yarn install`
 ### `yarn start`
 
 ## Technologies used
